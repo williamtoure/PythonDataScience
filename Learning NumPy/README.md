@@ -1,0 +1,2 @@
+NumPy est une librairie permettant de faire des statistiques sur les tableaux de données et de faire de l'algèbre.
+Elle permet de réaliser des probabilités comme les binomiales, Bernouilli, les transformées de Fourier ou les matrices.

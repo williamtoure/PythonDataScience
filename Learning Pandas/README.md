@@ -1,0 +1,2 @@
+Pandas est une librairie de Python permettant de faire de la data science.
+Elle permet d'utiliser des séries (données labelisées), les data frames (comme les tableaux multidimensionnels) et les méthodes de nettoyage de données, d'analyser des corrélations et d'affichage
